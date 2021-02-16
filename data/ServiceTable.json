@@ -2,10 +2,10 @@
   {
     "category": "Compute",
     "service": "Shared Web hosting",
-    "aws": "<ul><li></li></ul>",
+    "aws": "<ul></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/app-service/web/\" target=\"_blank\">Azure shared App Services</a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "gcp": "<ul></ul>",
+    "oci": "<ul></ul>"
   },
   {
     "category": "Compute",
@@ -20,7 +20,7 @@
     "service": "Bare Metal Server",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/blogs/aws/category/compute/amazon-ec2-bare-metal/\" target=\"_blank\">Amazon EC2 Bare Metal Instance</a></li></ul>",
     "azure": "<ul><li><a href=\"https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/hana-overview-architecture\" target=\"_blank\">Azure Bare Metal Servers (Large Instance Only for SAP Hana)</a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
+    "gcp": "<ul></ul>",
     "oci": "<ul><li><a href=\"https://cloud.oracle.com/compute/bare-metal/features\" target=\"_blank\">Bare Metal Servers</a></li></ul>"
   },
   {
@@ -60,8 +60,8 @@
     "service": "Virtual Private Servers",
     "aws": "<ul><li><a href=\"https://amazonlightsail.com/\" target=\"_blank\">Amazon Lightsail</a></li></ul>",
     "azure": "<ul><li><a href=\"https://docs.microsoft.com/en-us/azure/app-service-web/app-service-app-service-environment-intro\" target=\"_blank\">Azure App Service Environment</a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "gcp": "<ul></ul>",
+    "oci": "<ul></ul>"
   },
   {
     "category": "Compute",
@@ -77,7 +77,7 @@
     "aws": "<ul><li><a href=\"https://aws.amazon.com/batch/\" target=\"_blank\">AWS Batch</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/batch/\" target=\"_blank\">Azure Batch</a></li></ul>",
     "gcp": "<ul><li><a href=\"https://cloud.google.com/preemptible-vms/\" target=\"_blank\">Preemptible VMs</a></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "oci": "<ul></ul>"
   },
   {
     "category": "Compute",
@@ -132,7 +132,7 @@
     "service": "Hybrid Storage/Storage Gateway",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/storagegateway/details/\" target=\"_blank\">AWS Storage Gateway</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/storsimple/\" target=\"_blank\">Azure Storsimple</a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
+    "gcp": "<ul></ul>",
     "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/storage/storage-gateway.html\" target=\"_blank\">Storage Gateway</a></li></ul>"
   },
   {
@@ -157,7 +157,7 @@
     "aws": "<ul><li><a href=\"https://aws.amazon.com/dynamodb/\" target=\"_blank\">Amazon DynamoDB</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-us/services/time-series-insights/\" target=\"_blank\">Azure Time Series Insights</a></li></ul>",
     "gcp": "<ul><li><a href=\"https://cloud.google.com/bigtable/\" target=\"_blank\">Cloud BigTable</a></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "oci": "<ul></ul>"
   },
   {
     "category": "Database",
@@ -165,7 +165,7 @@
     "aws": "<ul><li><a href=\"https://aws.amazon.com/elasticache/\" target=\"_blank\">Amazon ElastiCache</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/cache/\" target=\"_blank\">Azure RedisCache</a></li></ul>",
     "gcp": "<ul><li><a href=\"https://cloud.google.com/memorystore/\" target=\"_blank\">Cloud MemoryStore (Beta)</a></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "oci": "<ul></ul>"
   },
   {
     "category": "Database",
@@ -180,7 +180,7 @@
     "service": "Database Migration Services",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/dms/\" target=\"_blank\">AWS Database Migration Service</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/blog/azure-database-migration-service-announcement-at-build/\" target=\"_blank\">Azure Database Migration Service (Preview)</a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
+    "gcp": "<ul></ul>",
     "oci": "<ul><li><a href=\"https://www.oracle.com/database/migration-to-cloud.html\" target=\"_blank\">Migrate to the Cloud</a></li></ul>"
   },
   {
@@ -188,23 +188,23 @@
     "service": "Server Migration Services",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/server-migration-service/\" target=\"_blank\">AWS Server Migration Service</a></li></ul>",
     "azure": "<ul><li><a href=\"https://docs.microsoft.com/azure/site-recovery/site-recovery-migrate-to-azure\" target=\"_blank\">Site Recovery</a></li><li><a href=\"https://azure.microsoft.com/en-us/downloads/migration-assistant/\" target=\"_blank\">Azure Websites Migration Assistant</a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "gcp": "<ul></ul>",
+    "oci": "<ul></ul>"
   },
   {
     "category": "Migration Services",
     "service": "Small Scale Data Transfer Service",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/documentation/elastic-beanstalk/\" target=\"_blank\">AWS Import/Export</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/pricing/details/storage-import-export/\" target=\"_blank\">Azure Import/Export</a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
+    "gcp": "<ul></ul>",
     "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/storage/data-transfer.html\" target=\"_blank\">Data Transfer Services - Hard Disk Import</a></li></ul>"
   },
   {
     "category": "Migration Services",
     "service": "Large Scale Data Transfer Solution (Petabyte Scale)",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/snowball/\" target=\"_blank\">AWS Snowball</a></li></ul>",
-    "azure": "<ul><li></li></ul>",
-    "gcp": "<ul><li></li></ul>",
+    "azure": "<ul></ul>",
+    "gcp": "<ul></ul>",
     "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/storage/data-transfer.html\" target=\"_blank\">Data Transfer Services - Storage applicance import</a></li></ul>"
   },
   {
@@ -219,8 +219,8 @@
     "category": "Migration Services",
     "service": "Large Scale Data Transfer Solution (Exabyte Scale)",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/snowmobile/\" target=\"_blank\">AWS Snowmobile</a></li></ul>",
-    "azure": "<ul><li></li></ul>",
-    "gcp": "<ul><li></li></ul>",
+    "azure": "<ul></ul>",
+    "gcp": "<ul></ul>",
     "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/storage/data-transfer.html\" target=\"_blank\">Data Transfer Services</a></li></ul>"
   },
   {
@@ -228,8 +228,8 @@
     "service": "Application Discovery Services",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/application-discovery/\" target=\"_blank\">Application Discovery Service</a></li></ul>",
     "azure": "<ul><li><a href=\"https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/cloud-app-discovery\" target=\"_blank\">Azure Active Directory</a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "gcp": "<ul></ul>",
+    "oci": "<ul></ul>"
   },
   {
     "category": "Networking & Content Delivery",
@@ -253,7 +253,7 @@
     "aws": "<ul><li><a href=\"https://aws.amazon.com/documentation/elastic-beanstalk/\" target=\"_blank\">Amazon CloudFront</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/cdn/\" target=\"_blank\">Azure CDN</a></li></ul>",
     "gcp": "<ul><li><a href=\"https://cloud.google.com/cdn/\" target=\"_blank\">Cloud CDN</a></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "oci": "<ul></ul>"
   },
   {
     "category": "Networking",
@@ -268,7 +268,7 @@
     "service": "Global Traffic Management",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/blogs/aws/new-route-53-traffic-flow/\" target=\"_blank\">Amazon Route 53 Traffic Flow</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/traffic-manager/\" target=\"_blank\">Azure Traffic Manager</a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
+    "gcp": "<ul></ul>",
     "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/networking/traffic-management.html\" target=\"_blank\">OCI Traffic Management</a></li></ul>"
   },
   {
@@ -276,7 +276,7 @@
     "service": "Hybrid Cloud",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/outposts/\" target=\"_blank\">AWS Outposts</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/azure-arc/\" target=\"_blank\">Azure Arc</a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
+    "gcp": "<ul></ul>",
     "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/cloud-at-customer.html\" target=\"_blank\">Cloud At Customer</a></li><li><a href=\"https://www.oracle.com/cloud/roving-edge-infrastructure/\" target=\"_blank\">Oracle Roving Edge Infrastructure</a></li></ul>"
   },
   {
@@ -316,7 +316,7 @@
     "service": "Server Management Services",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/documentation/elastic-beanstalk/\" target=\"_blank\">Amazon EC2 Systems Manager</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-us/resources/videos/azure-operational-insights-overview/\" target=\"_blank\">Azure Operational Insights </a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
+    "gcp": "<ul></ul>",
     "oci": "<ul><li><a href=\"https://cloud.oracle.com/management\" target=\"_blank\">Oracle Management Cloud</a></li></ul>"
   },
   {
@@ -348,16 +348,16 @@
     "service": "Server Automation",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/opsworks/\" target=\"_blank\">AWS OpsWorks</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-us/features/resource-manager/\" target=\"_blank\">Resource Manager</a></li><li><a href=\"https://docs.microsoft.com/en-us/azure/automation/\" target=\"_blank\">Azure Automation</a></li><li><a href=\"https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-extensions-features\" target=\"_blank\">VM Extentions</a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
+    "gcp": "<ul></ul>",
     "oci": "<ul><li><a href=\"https://cloud.oracle.com/en_US/orchestration\" target=\"_blank\">Oracle Orchestration Cloud Service</a></li><li><a href=\"https://www.oracle.com/devops/resource-manager/\" target=\"_blank\">Resource Manager</a></li></ul>"
   },
   {
     "category": "Management Tools",
     "service": "Server Automation",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/servicecatalog/\" target=\"_blank\">AWS Service Catalog</a></li></ul>",
-    "azure": "<ul><li></li></ul>",
-    "gcp": "<ul><li></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "azure": "<ul></ul>",
+    "gcp": "<ul></ul>",
+    "oci": "<ul></ul>"
   },
   {
     "category": "Management Tools",
@@ -372,7 +372,7 @@
     "service": "Alerts and Remediation guidance Service",
     "aws": "<ul><li>AWS Personal Health Dashboard</li></ul>",
     "azure": "<ul><li><a href=\"https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-azure-monitor\" target=\"_blank\">Azure Monitor</a></li><li><a href=\"https://www.microsoft.com/en-us/cloud-platform/operations-management-suite\" target=\"_blank\">Azure Operations Management Suite (OMS)</a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
+    "gcp": "<ul></ul>",
     "oci": "<ul><li><a href=\"https://cloud.oracle.com/en_US/management\" target=\"_blank\">Oracle Management Cloud</a></li><li><a href=\"https://docs.oracle.com/en-us/iaas/Content/SecurityAdvisor/Concepts/securityadvisoroverview.htm\" target=\"_blank\">Oracle Security Advisor</a></li></ul>"
   },
   {
@@ -387,8 +387,8 @@
     "category": "Management Tools",
     "service": "Automated Infra Management Services",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/managed-services/\" target=\"_blank\">AWS Managed Services</a></li></ul>",
-    "azure": "<ul><li></li></ul>",
-    "gcp": "<ul><li></li></ul>",
+    "azure": "<ul></ul>",
+    "gcp": "<ul></ul>",
     "oci": "<ul><li><a href=\"https://www.oracle.com/fr/cloud/managed-cloud.html\" target=\"_blank\">Oracle Managed Cloud Services</a></li></ul>"
   },
   {
@@ -396,7 +396,7 @@
     "service": "Automated Disaster Recovery Services",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/disaster-recovery/\" target=\"_blank\">AWS Disaster Recovery</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-us/services/site-recovery/\" target=\"_blank\">Azure Site Recovery</a></li><li><a href=\"https://azure.microsoft.com/en-us/services/backup/\" target=\"_blank\">Azure Backup</a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
+    "gcp": "<ul></ul>",
     "oci": "<ul><li><a href=\"https://cloud.oracle.com/en_US/database-backup/features\" target=\"_blank\">Oracle Database Backup</a></li></ul>"
   },
   {
@@ -412,7 +412,7 @@
     "service": "Cloud Security Assesment Service",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/inspector/\" target=\"_blank\">Amazon Inspector</a></li><li><a href=\"https://aws.amazon.com/guardduty/\" target=\"_blank\">Gaurd Duty</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/security-center/\" target=\"_blank\">Azure Security Center</a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
+    "gcp": "<ul></ul>",
     "oci": "<ul><li><a href=\"https://docs.oracle.com/en-us/iaas/Content/SecurityAdvisor/Concepts/securityadvisoroverview.htm\" target=\"_blank\">Oracle Security Advisor</a></li></ul>"
   },
   {
@@ -420,8 +420,8 @@
     "service": "Secured Socket Layer (SSL) Certificates",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/certificate-manager/\" target=\"_blank\">AWS Certificate Manager</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-us/updates/introducing-app-service-certificates/\" target=\"_blank\">App Service Certificate</a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "gcp": "<ul></ul>",
+    "oci": "<ul></ul>"
   },
   {
     "category": "Security & Identity, Compliance",
@@ -452,7 +452,7 @@
     "service": "Consolidated Management of Multiple Cloud Accounts",
     "aws": "<ul><li>AWS Organizations</li></ul>",
     "azure": "<ul><li><a href=\"https://docs.microsoft.com/en-us/azure/azure-resource-manager/management-groups-overview\" target=\"_blank\">Azure Management Groups</a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
+    "gcp": "<ul></ul>",
     "oci": "<ul><li><a href=\"https://cloud.oracle.com/en_US/cloud-security/audit/features\" target=\"_blank\">Audit</a></li></ul>"
   },
   {
@@ -468,7 +468,7 @@
     "service": "Web Application Firewall",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/waf/\" target=\"_blank\">AWS WAF</a></li></ul>",
     "azure": "<ul><li>Azure WAF</li></ul>",
-    "gcp": "<ul><li></li></ul>",
+    "gcp": "<ul></ul>",
     "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/security/cloud-services/web-application-firewall.html\" target=\"_blank\">Web Application Firewall</a></li></ul>"
   },
   {
@@ -476,8 +476,8 @@
     "service": "Security & Compliance Service",
     "aws": "<ul><li>AWS Firewall Manager</li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/firewall-manager/\" target=\"_blank\">Azure Firewall Manager</a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "gcp": "<ul></ul>",
+    "oci": "<ul></ul>"
   },
   {
     "category": "Security & Identity, Compliance",
@@ -493,7 +493,7 @@
     "aws": "<ul><li><a href=\"https://aws.amazon.com/athena/\" target=\"_blank\">Amazon Athena</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/data-lake-analytics/\" target=\"_blank\">Azure Data Lake Analytics</a></li></ul>",
     "gcp": "<ul><li><a href=\"https://cloud.google.com/bigquery/\" target=\"_blank\">BigQuery</a></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "oci": "<ul></ul>"
   },
   {
     "category": "Big Data & Advanced Analytics",
@@ -508,8 +508,8 @@
     "service": "Cloud Search",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/cloudsearch/\" target=\"_blank\">Amazon CloudSearch</a></li><li><a href=\"https://aws.amazon.com/cloudsearch/\" target=\"_blank\">Amazon Elastic Search Service</a></li></ul>",
     "azure": "<ul><li>Azure Search</li></ul>",
-    "gcp": "<ul><li></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "gcp": "<ul></ul>",
+    "oci": "<ul></ul>"
   },
   {
     "category": "Big Data & Advanced Analytics",
@@ -549,7 +549,7 @@
     "aws": "<ul><li><a href=\"https://aws.amazon.com/lex/\" target=\"_blank\">Amazon Lex</a></li><li><a href=\"https://aws.amazon.com/comprehend/\" target=\"_blank\">Amazon Comprehend</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-us/services/cognitive-services/language-understanding-intelligent-service/\" target=\"_blank\">LUIS (Language Understanding Intelligent Service)</a></li><li><a href=\"https://azure.microsoft.com/en-us/services/bot-service/\" target=\"_blank\">Azure Bot Service</a></li><li><a href=\"https://azure.microsoft.com/en-in/services/cognitive-services/speech/\" target=\"_blank\">Azure Speech Recognition API</a></li></ul>",
     "gcp": "<ul><li><a href=\"https://cloud.google.com/natural-language/\" target=\"_blank\">Natural Language API</a></li><li><a href=\"https://cloud.google.com/text-to-speech/\" target=\"_blank\">Cloud Text-to-Speech (Beta)</a></li><li><a href=\"https://cloud.google.com/dialogflow-enterprise/\" target=\"_blank\">DialogFlow Enterprise Edition (Beta)</a></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "oci": "<ul></ul>"
   },
   {
     "category": "Artificial Intelligence",
@@ -557,7 +557,7 @@
     "aws": "<ul><li>Amazon Polly</li><li><a href=\"https://aws.amazon.com/transcribe/\" target=\"_blank\">Amazon Transcribe</a></li><li><a href=\"https://aws.amazon.com/translate/\" target=\"_blank\">Amazon Translate</a></li></ul>",
     "azure": "<ul><li>Bing Speech API</li></ul>",
     "gcp": "<ul><li><a href=\"https://cloud.google.com/translate/\" target=\"_blank\">Translation API</a></li><li><a href=\"https://cloud.google.com/speech/\" target=\"_blank\">Speech API</a></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "oci": "<ul></ul>"
   },
   {
     "category": "Artificial Intelligence",
@@ -565,7 +565,7 @@
     "aws": "<ul><li>Amazon Rekognition</li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-us/services/cognitive-services/emotion/\" target=\"_blank\">Emotion API</a></li><li><a href=\"https://azure.microsoft.com/en-us/services/cognitive-services/face/\" target=\"_blank\">Face API</a></li><li>Computer Vision API</li></ul>",
     "gcp": "<ul><li>Vision API</li><li><a href=\"https://cloud.google.com/video-intelligence/\" target=\"_blank\">Cloud Video Intelligence</a></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "oci": "<ul></ul>"
   },
   {
     "category": "Artificial Intelligence",
@@ -604,16 +604,16 @@
     "service": "Consolidated Mgmt of Multiple Cloud Accounts",
     "aws": "<ul><li>Amazon Pinpoint</li></ul>",
     "azure": "<ul><li>Azure Mobile Engagement</li></ul>",
-    "gcp": "<ul><li></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "gcp": "<ul></ul>",
+    "oci": "<ul></ul>"
   },
   {
     "category": "Automated Cloud Management Service",
     "service": "Managed Cloud Services",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/managed-services/\" target=\"_blank\">AWS Managed Services</a></li></ul>",
-    "azure": "<ul><li></li></ul>",
-    "gcp": "<ul><li></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "azure": "<ul></ul>",
+    "gcp": "<ul></ul>",
+    "oci": "<ul></ul>"
   },
   {
     "category": "Mobile Services",
@@ -621,7 +621,7 @@
     "aws": "<ul><li>AWS Device Farm</li></ul>",
     "azure": "<ul><li>Xamarin Test Cloud (Front End)</li><li>Azure DevTest Labs (Back End)</li></ul>",
     "gcp": "<ul><li><a href=\"https://firebase.google.com/docs/test-lab/\" target=\"_blank\">Cloud Test Lab</a></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "oci": "<ul></ul>"
   },
   {
     "category": "Mobile Services",
@@ -660,8 +660,8 @@
     "service": "Media Transcoders",
     "aws": "<ul><li>Amazon Elastic Transcoder</li><li><a href=\"https://aws.amazon.com/mediaconvert/\" target=\"_blank\">AWS Elemental MediaConvert</a></li><li><a href=\"https://aws.amazon.com/medialive/\" target=\"_blank\">AWS Elemental MediaLive</a></li><li><a href=\"https://aws.amazon.com/mediapackage/\" target=\"_blank\">AWS Elemental MediaPackage</a></li><li><a href=\"https://aws.amazon.com/mediastore/\" target=\"_blank\">AWS Elemental MediaStore</a></li><li><a href=\"https://aws.amazon.com/MediaTailor/\" target=\"_blank\">AWS Elemental MediaTailor</a></li><li><a href=\"https://aws.amazon.com/kinesis/video-streams/\" target=\"_blank\">Amazon Kinesis Video Streams</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-us/services/media-services\" target=\"_blank\">Azure Media Services</a></li><li>Live On Demand Streaming</li><li>Azure Media Player</li><li>Content Protection</li><li>Media Analytics</li></ul>",
-    "gcp": "<ul><li></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "gcp": "<ul></ul>",
+    "oci": "<ul></ul>"
   },
   {
     "category": "Application Services",
@@ -676,15 +676,15 @@
     "service": "Mobile Analytics",
     "aws": "<ul><li>Amazon Pinpoint</li></ul>",
     "azure": "<ul><li>Mobile Engagement</li></ul>",
-    "gcp": "<ul><li></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "gcp": "<ul></ul>",
+    "oci": "<ul></ul>"
   },
   {
     "category": "Application Services",
     "service": "Email Services",
     "aws": "<ul><li>Amazon SES</li></ul>",
-    "azure": "<ul><li></li></ul>",
-    "gcp": "<ul><li></li></ul>",
+    "azure": "<ul></ul>",
+    "gcp": "<ul></ul>",
     "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/networking/email-delivery.html\" target=\"_blank\">Email Delivery</a></li></ul>"
   },
   {
@@ -700,7 +700,7 @@
     "service": "Blockchain Services",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/managed-blockchain/\" target=\"_blank\">Amazon Managed Blockchain</a></li><li><a href=\"https://aws.amazon.com/qldb/\" target=\"_blank\">Amazon Quantum Ledger Database (QLDB)</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-us/solutions/blockchain/\" target=\"_blank\">Blockchain</a></li><li><a href=\"https://azure.microsoft.com/en-us/features/blockchain-workbench/\" target=\"_blank\">Blockchain Workbench</a></li><li><a href=\"https://azure.microsoft.com/en-in/services/blockchain-tokens/\" target=\"_blank\">Azure Blockchain Tokens</a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
+    "gcp": "<ul></ul>",
     "oci": "<ul><li><a href=\"https://www.oracle.com/blockchain/\" target=\"_blank\">Blockchain</a></li></ul>"
   },
   {
@@ -717,15 +717,15 @@
     "aws": "<ul><li>Amazon WorkDocs</li><li>Amazon WorkMail</li><li>Amazon WorkSpaces</li></ul>",
     "azure": "<ul><li>Microsoft Office 365</li></ul>",
     "gcp": "<ul><li>G Suite</li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "oci": "<ul></ul>"
   },
   {
     "category": "Business Productivity",
     "service": "Desktop Application Streaming",
     "aws": "<ul><li>Amazon AppStream 2.0</li></ul>",
-    "azure": "<ul><li></li></ul>",
-    "gcp": "<ul><li></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "azure": "<ul></ul>",
+    "gcp": "<ul></ul>",
+    "oci": "<ul></ul>"
   },
   {
     "category": "Software MarketPlace",
@@ -748,39 +748,39 @@
     "service": "IoT Development Solutions",
     "aws": "<ul><li>AWS Greengrass</li></ul>",
     "azure": "<ul><li>Azure IoT SDK</li><li><a href=\"https://azure.microsoft.com/en-us/blog/microsoft-launches-azure-iot-technical-training-developers-can-start-quickly-with-iot/\" target=\"_blank\">Azure IoT Edge</a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "gcp": "<ul></ul>",
+    "oci": "<ul></ul>"
   },
   {
     "category": "Internet of Things",
     "service": "IoT Hardware",
     "aws": "<ul><li>AWS IoT Button</li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-us/services/azure-sphere/\" target=\"_blank\">Azure Sphere</a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "gcp": "<ul></ul>",
+    "oci": "<ul></ul>"
   },
   {
     "category": "Game Development",
     "service": "Game Development",
     "aws": "<ul><li>Amazon Lumberyard</li></ul>",
     "azure": "<ul><li>Visual Studio</li></ul>",
-    "gcp": "<ul><li></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "gcp": "<ul></ul>",
+    "oci": "<ul></ul>"
   },
   {
     "category": "Robotics Development",
     "service": "Robotics Development",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/robomaker/\" target=\"_blank\">AWS RoboMaker</a></li></ul>",
-    "azure": "<ul><li></li></ul>",
-    "gcp": "<ul><li></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "azure": "<ul></ul>",
+    "gcp": "<ul></ul>",
+    "oci": "<ul></ul>"
   },
   {
     "category": "Development & Testing",
     "service": "Development & Testing",
     "aws": "<ul><li>AWS Dev/Test</li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/devtest-lab/\" target=\"_blank\">Azure Dev/Test</a></li></ul>",
-    "gcp": "<ul><li></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "gcp": "<ul></ul>",
+    "oci": "<ul></ul>"
   }
 ]
